@@ -1,5 +1,5 @@
-- Hi, my name is Austin Hart, I am a Senior Statistics & Data Science student at the University of Arizona.
-- I’m interested in using data science to find value and explore opportinuties in a vareity markets including prediction markets and digital asset markets.
+- Hi, my name is Austin Hart, I am a recent graduate in Statistics & Data Science.
+- I’m interested in using data science to find value and explore opportinuties and insights in a vareity of financial markets including prediction markets and digital asset markets.
 
 <!---
 austin-hart/austin-hart is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
